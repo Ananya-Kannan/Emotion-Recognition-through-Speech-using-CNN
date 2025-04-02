@@ -19,3 +19,4 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 5. Training the model: Using CNN algorithm to learn patterns from the prepared data.
 6. Testing and Evaluation: The model's performance on unseen data is assessed to validate its accuracy and effectiveness for the intended task.
 
+I'm delighted to share that our research paper, 'Emotion Recognition through Speech using Deep Learning', has been officially published in IEEE Xplore, following its presentation at the 4th International Conference on Sustainable Expert Systems (ICSES 2024). I'm thrilled to have collaborated with my talented teammates, Priyanshi Sharma and Vanshika Chenna, on this project. The paper is now available for access in IEEE Xplore. The research paper can also be accessed through this github repository.
