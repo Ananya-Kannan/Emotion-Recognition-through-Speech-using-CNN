@@ -1,4 +1,4 @@
-# Speech-Emotion-Recognition-Through-Speech-using-CNN
+# Emotion-Recognition-Through-Speech-using-CNN
 
 The objective is to build a speech emotion detection classifier.
 
